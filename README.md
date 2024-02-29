@@ -28,6 +28,6 @@ Pull : récupérer (dépôt distant à dépôt local) Push : mettre en ligne (lo
 
 bouton "git" en haut à droite sélectionner les fichiers à joindre dans le commit : cocher les fichiers via la colonnes index une nouvelle fenêtre s'ouvre, ajouter en haut à droite un commentaire, appuyer sur commit puis "push" pour MAJ la version sur GITHub.
 
-### 1.4 Exercice
+### 1.4 Exercice pour manipuler la fonction "push"" 
 
 donner un désavantage à github : existe-il un manuel ? sinon c'est un désavantage
