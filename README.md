@@ -40,4 +40,6 @@ donner un désavantage à github : existe-il un manuel ? sinon c'est un désavan
 
     -   Faire "nouveau projet"
 
--   Ne plus s'amuser
+
+-   S'amuser en supprimant le travail des collègues (hahaha)
+
