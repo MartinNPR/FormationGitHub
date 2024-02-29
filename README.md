@@ -29,6 +29,6 @@ Pull : récupérer (dépôt distant à dépôt local) Push : mettre en ligne (lo
 bouton "git" en haut à droite
 sélectionner les fichiers à joindre dans le commit : cocher les fichiers via la colonnes index
 
-### 1.3 Exercice 
+### 1.4 Exercice 
 
 donner un désavantage à github : existe-il un manuel ? sinon c'est un désavantage
