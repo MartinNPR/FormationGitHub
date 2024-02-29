@@ -49,3 +49,4 @@ Manip pour résoudre le conflit : le dernier utilisateur à faire sont push peut
 L'utilisateur qui n'a pas éditer le fichier doit faire un pull pour avoir la nouvelle version.
 
 
+Exercice : éditer fichier depuis github desktop (ouvrir fichier via éditzru de texte)
