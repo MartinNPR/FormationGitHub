@@ -43,3 +43,9 @@ donner un désavantage à github : existe-il un manuel ? sinon c'est un désavan
 
 -   S'amuser en supprimant le travail des collègues (hahaha)
 
+Explication pour le conflit : deux utilisateurs éditent un fichier en même temps au même endroit, puis commit  message de MAJ, puis pull = conflit 
+
+Manip pour résoudre le conflit : le dernier utilisateur à faire sont push peut modifier le fichier. Modifier = garder ou supprimer le passage éditer, puis manipulation normale (index/commit/...)
+L'utilisateur qui n'a pas éditer le fichier doit faire un pull pour avoir la nouvelle version.
+
+
