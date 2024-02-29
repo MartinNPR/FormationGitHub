@@ -8,9 +8,7 @@ Pull : récupérer (dépôt distant à dépôt local) Push : mettre en ligne (lo
 
 ### 1.2 Créer un dépot
 
--   
-
--   en haut à droite, new depository
+-   En haut à droite, new depository
 
 -   Nommer le dépôt
 
@@ -28,6 +26,18 @@ Pull : récupérer (dépôt distant à dépôt local) Push : mettre en ligne (lo
 
 bouton "git" en haut à droite sélectionner les fichiers à joindre dans le commit : cocher les fichiers via la colonnes index une nouvelle fenêtre s'ouvre, ajouter en haut à droite un commentaire, appuyer sur commit puis "push" pour MAJ la version sur GITHub.
 
-### 1.4 Exercice pour manipuler la fonction "push" 
+### 1.4 Exercice pour manipuler la fonction "push"
 
 donner un désavantage à github : existe-il un manuel ? sinon c'est un désavantage
+
+### 1.5 Exercice pour cloner un projet
+
+-   Donner l'accès sur GitHub
+
+-   Copier la clé SSH du projet depuis GitHub sur Saturn Cloud (ordinateur virtuel)
+
+    -   Appuyer sur R Serveur
+
+    -   Faire "nouveau projet"
+
+-   S'amuser
