@@ -50,3 +50,4 @@ L'utilisateur qui n'a pas éditer le fichier doit faire un pull pour avoir la no
 
 
 Exercice : éditer fichier depuis github desktop (ouvrir fichier via éditzru de texte)
+MAJ exercice
